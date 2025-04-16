@@ -1,5 +1,3 @@
-"""Test code for Practical 10."""
-
 def repeat_string(string, n):
     """Repeat string n times, space-separated.
     >>> repeat_string("hello", 3)
